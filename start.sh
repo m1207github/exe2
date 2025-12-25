@@ -5,7 +5,7 @@ export KEEPALIVE=${KEEPALIVE:-'0'}
 export OPENSERVER=${OPENSERVER:-'1'}
 
 export CF_IP=${CF_IP:-'try.cloudflare.com'}
-export ECH_PORT=${ECH_PORT:-'8080'}
+export ECH_PORT=${ECH_PORT:-'8001'}
 export ECH_PROTOCOL=${ECH_PROTOCOL:-'ws'}
 export ECH_LISTEN=${ECH_LISTEN:-'proxy://127.0.0.1:10808'}
 export ECH_DNS=${ECH_DNS:-'dns.alidns.com/dns-query'}
