@@ -33,3 +33,4 @@ jobs:
           context: .
           push: true
           tags: ghcr.io/${{ github.repository }}dk202544:latest
+                m1207/dk20251:latest
