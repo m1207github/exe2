@@ -15,7 +15,7 @@ export SUB_NAME=${SUB_NAME:-''}
 export MYIP_URL=${MYIP_URL:-''}
 export MY_DOMAIN=${MY_DOMAIN:-''}
 
-export UUID=${UUID:-'7160b696-dd5e-42e3-a024-145e92cec916'}
+export UUID=${UUID:-'exe'}
 export NEZHA_VERSION=${NEZHA_VERSION:-'V1'}
 export NEZHA_SERVER=${NEZHA_SERVER:-''}
 export NEZHA_KEY=${NEZHA_KEY:-''}
