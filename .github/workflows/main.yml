@@ -41,5 +41,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/${{ github.repository }}:exe
-            m1207/exe:latest
+            ghcr.io/${{ github.repository }}:exe2
+            m1207/exe2:latest
